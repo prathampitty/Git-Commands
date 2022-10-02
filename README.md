@@ -3,12 +3,11 @@ Git Commands
 
 ## Translated Versions
 
+- [Step by Step git commonds explained ](README_step_by_step_git_commonds.md)
 - [Versão em português](READMEpt.md)
 - [Versión en español](READMEes.md)
 - [Türkçe versiyon](READMEtr.md)
 - [বাংলা সংস্করণ](READMEbn.md)
-
----
 
 _A list of my commonly used Git commands_
 
